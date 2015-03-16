@@ -5,4 +5,5 @@ var startgame = function(){
  switch(option1){
   case 'look":
    confirm(“You take a look around. You see some paintings on the walls that depict the gruesome deaths of explorers at the hands of what looks like a giant duck. You doubt that that is what actually killed all those people. Ducks aren’t killers. You also notice that some of the floor tiles appear to have little lines running down the middle”)
+   var option1-1 = prompt(“With this knowledge in mind, you can try to NAVIGATE down to where the treasure should be, or EXPLORE and try to find out more about this dungeon.)
 }
