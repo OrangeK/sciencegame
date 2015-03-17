@@ -5,5 +5,9 @@ var startgame = function(){
  switch(option1){
   case 'look':
    confirm("You take a look around. You see some paintings on the walls that depict the gruesome deaths of explorers at the hands of what looks like a giant duck. You doubt that that is what actually killed all those people. Ducks aren’t killers. You also notice that some of the floor tiles appear to have little lines running down the middle. They might be traps.")
-   var option1-1 = prompt("With this knowledge in mind, you can try to NAVIGATE down to where the treasure should be, or EXPLORE and try to find out more about this dungeon.")
+   var option1-1 = prompt("With this knowledge in mind, you can try to NAVIGATE down to where the treasure should be, or EXPLORE and try to find out more about this dungeon.");
+ break;
+ case 'dig':
+  confirm("You decide that you should start digging toward where the treasure should be. After dropping down a couple of levels, your shovel dents on the floor, and you realize that you should probably start trying to locate the treasure. You see some lines drawn crudely on the wall in what appears to be blood.
+   var option1-2 = prompt("You can either FOLLOW the markings, or FIND your own path.");
 }
